@@ -1,0 +1,13 @@
+{
+    "name": ".Packed WoT: Blitz Convertor",
+    "version": "1.0.0",
+    "description": "",
+    "type": "commonjs",
+    "bin":
+    {
+        "packed": "packed.js"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
